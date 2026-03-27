@@ -8,11 +8,8 @@ https://github.com/pedrohpmsdev/30diasDeCSS
 ## Regras gerais
 
 - Realizar um projeto por dia
-- Compartilhe seu progresso no grupo diariamente
 - Postar tudo no github diariamente (mesmo que não tenha finalizado)
-- Compartilhar a cada quinze dias os desafios feitos no LinkedIn
-- Sem ajuda de: IA e Mauricio
-- No final do período, apresentar sobre um assunto determinado por sorteio
+- Sem ajuda de: IA
 
 ## Documentação
 
